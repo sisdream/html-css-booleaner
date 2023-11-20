@@ -3,14 +3,19 @@
 }
 
 header{
-   height: 180px;
+    height: 180px;
     background-color: #4ea0ff;
     background-image: url("../img/pattern.png");   
+}
+
+.container{
+    margin: 20px 100px;
 }
 
 div.logo{   
   width: 200px;
   padding-top:120px;
+  padding-left: 100px;
 }
 
 section{
