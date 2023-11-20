@@ -13,6 +13,18 @@ div.logo{
   padding: 120px;
 }
 
+section{
+    margin: 0 10px;
+}
+
 h1{
    font-size:3rem;
+}
+
+.testo{
+    color: #888888;
+}
+
+a{
+    text-decoration: none;
 }
