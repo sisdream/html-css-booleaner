@@ -5,10 +5,14 @@
 header{
    height: 180px;
     background-color: #4ea0ff;
-    background-image: url("../img/pattern.png");
-    background-size: cover;
-};
+    background-image: url("../img/pattern.png");   
+}
 
-#logo{
-    width: 50px;
+div.logo{   
+  width: 200px;
+  padding: 120px;
+}
+
+h1{
+   font-size:3rem;
 }
