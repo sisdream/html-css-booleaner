@@ -40,3 +40,27 @@ main{
 ul{
     padding-left: 10px;
 }
+
+table{
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+th {
+    height: 70px;
+    background-color: #5fbfe8;
+    color: #fff;
+    width: 50px;
+    
+}
+
+td {
+    height: 50px;
+    vertical-align: bottom;
+    width: 50px;
+}
+
+.blu{
+    background-color: #b1e5f2;
+}
